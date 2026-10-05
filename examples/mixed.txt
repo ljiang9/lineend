@@ -1,0 +1,6 @@
+line1 CRLF
+line2 CRLF
+line3 CRLF
+line4 LF
+line5 LF
+line6 lone CRline7 no ending
